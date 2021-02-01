@@ -61,7 +61,7 @@
     "**/*.js": "eslint --max-warnings 0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.12.5",
     "memoize-one": ">=3.1.1 <6"
   },
   "peerDependencies": {
